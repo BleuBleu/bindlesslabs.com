@@ -43,3 +43,10 @@ p {
   color: #C6CDDA;
   font-weight: 400;
 }
+th {
+  color: #C6CDDA;
+}
+td {
+  color: #C6CDDA;
+  width: 50%;
+}
